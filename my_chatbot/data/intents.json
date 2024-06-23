@@ -1,0 +1,74 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "How are you", "Is anyone there?", "Hey", "Good morning", "Good afternoon"],
+            "responses": ["Hello!", "Hi there!", "How can I help you?", "Hey! How can I assist you?", "Good to see you!"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Catch you later", "Talk to you soon"],
+            "responses": ["Goodbye!", "See you later!", "Take care!", "Have a great day!", "Catch you later!"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks a lot", "I appreciate it"],
+            "responses": ["You're welcome!", "No problem!", "Glad to help!", "Anytime!", "My pleasure!"]
+        },
+        {
+            "tag": "age",
+            "patterns": ["How old are you?", "What's your age?", "How old are you bot?", "When were you created?"],
+            "responses": ["I'm ageless!", "Age is just a number!", "I'm a bot and ageless!", "I was created recently to assist you."]
+        },
+        {
+            "tag": "name",
+            "patterns": ["What's your name?", "What are you called?", "Who are you?", "Do you have a name?"],
+            "responses": ["I'm your friendly assistant.", "You can call me Chatbot.", "I'm a chatbot created to assist you.", "My name is Chatbot."]
+        },
+        {
+            "tag": "help",
+            "patterns": ["I need help", "Can you help me?", "Assist me", "I need assistance", "Help me please"],
+            "responses": ["Of course! What do you need help with?", "I'm here to assist you. How can I help?", "Sure, let me know what you need assistance with.", "I'm happy to help. What do you need?"]
+        },
+        {
+            "tag": "options",
+            "patterns": ["What can you do?", "What help can you provide?", "How can you assist me?", "What services do you offer?"],
+            "responses": ["I can assist you with a variety of tasks, such as answering questions, providing information, and helping with specific requests.", "I can help with many things. Just ask!", "I'm here to provide information and assist with your queries."]
+        },
+        {
+            "tag": "joke",
+            "patterns": ["Tell me a joke", "Make me laugh", "I want to hear a joke", "Can you tell jokes?"],
+            "responses": ["Why don't scientists trust atoms? Because they make up everything!", "Why did the scarecrow win an award? Because he was outstanding in his field!", "Why do cows wear bells? Because their horns don't work!", "What do you call fake spaghetti? An impasta!"]
+        },
+        {
+            "tag": "weather",
+            "patterns": ["What's the weather like?", "How's the weather?", "Is it going to rain today?", "Tell me the weather"],
+            "responses": ["I'm not able to check the weather, but you can use a weather app for the latest updates.", "I can't provide weather updates, but you can check online for current conditions.", "Please check your favorite weather website for the latest information."]
+        },
+        {
+            "tag": "food",
+            "patterns": ["I'm hungry", "Can you suggest a restaurant?", "Where should I eat?", "Any good places to eat?"],
+            "responses": ["I can't recommend specific restaurants, but you can check food delivery apps for nearby options.", "Try checking out some local reviews on a food app.", "How about trying a new recipe at home?", "I heard there are great options on food delivery apps."]
+        },
+        {
+            "tag": "hobby",
+            "patterns": ["What are your hobbies?", "Do you have any hobbies?", "What do you do for fun?"],
+            "responses": ["I don't have hobbies like humans do, but I enjoy helping people like you.", "My main activity is assisting users with their questions and tasks.", "Helping you is what I do best!"]
+        },
+        {
+            "tag": "book_recommendation",
+            "patterns": ["Can you recommend a book?", "What's a good book to read?", "Suggest a book", "I need a book recommendation"],
+            "responses": ["You might enjoy reading 'To Kill a Mockingbird' by Harper Lee.", "How about '1984' by George Orwell? It's a great read.", "'Pride and Prejudice' by Jane Austen is a classic.", "Try 'The Great Gatsby' by F. Scott Fitzgerald."]
+        },
+        {
+            "tag": "programming_help",
+            "patterns": ["I need help with programming", "Can you help me code?", "I'm stuck with my code", "Programming advice"],
+            "responses": ["Sure, what programming language are you working with?", "I can help with programming questions. What do you need?", "Let's see what we can do about your code. What's the issue?", "I'm here to help with your programming questions."]
+        },
+        {
+            "tag": "language_translation",
+            "patterns": ["Can you translate something for me?", "I need a translation", "Translate this", "Can you help me translate?"],
+            "responses": ["I'm not able to translate directly, but there are great online translation services like Google Translate.", "You might want to use a translation app for accurate translations.", "I'm here to assist, but for translations, an online service would be best."]
+        }
+    ]
+}

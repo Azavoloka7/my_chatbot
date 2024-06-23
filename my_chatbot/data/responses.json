@@ -1,0 +1,100 @@
+{
+    "greeting": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help you?",
+        "Hey! How are you doing?",
+        "Good to see you! How can I assist?",
+        "Hello! What can I do for you?"
+    ],
+    "goodbye": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care!",
+        "Bye! Feel free to reach out if you need anything.",
+        "Catch you later! Stay safe!",
+        "Talk to you soon! Have a nice day!"
+    ],
+    "thanks": [
+        "You're welcome! Happy to help.",
+        "No problem! Glad I could assist.",
+        "Anytime! If you have more questions, just ask.",
+        "My pleasure! Let me know if there's anything else.",
+        "You're welcome! Is there anything else I can help with?"
+    ],
+    "age": [
+        "I'm ageless! I exist to help you.",
+        "Age is just a number, and I don't have one!",
+        "I was created recently, but I'm always here to assist you.",
+        "I'm a chatbot, so I don't have an age like humans do.",
+        "I exist outside the realm of time, just here to help!"
+    ],
+    "name": [
+        "I'm your friendly assistant, Chatbot.",
+        "You can call me Chatbot. How can I assist you?",
+        "I'm a chatbot created to help you with your questions.",
+        "I'm Chatbot, your virtual assistant.",
+        "My name is Chatbot. What can I do for you today?"
+    ],
+    "help": [
+        "Of course! What do you need help with?",
+        "I'm here to assist you. How can I help?",
+        "Sure, let me know what you need assistance with.",
+        "I'm happy to help. What do you need?",
+        "Tell me how I can assist you today."
+    ],
+    "options": [
+        "I can assist with answering questions, providing information, and helping with specific requests.",
+        "I'm here to help with a variety of tasks. Just ask!",
+        "I can provide information and help with your queries.",
+        "Let me know what you need, and I'll do my best to assist.",
+        "I can help with many things. What do you need?"
+    ],
+    "joke": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why do cows wear bells? Because their horns don't work!",
+        "What do you call fake spaghetti? An impasta!",
+        "Why don't skeletons fight each other? They don't have the guts."
+    ],
+    "weather": [
+        "I'm not able to check the weather, but you can use a weather app for the latest updates.",
+        "I can't provide weather updates, but you can check online for current conditions.",
+        "Please check your favorite weather website for the latest information.",
+        "I recommend using a weather app for accurate weather forecasts.",
+        "You can find the latest weather updates on a weather website or app."
+    ],
+    "food": [
+        "I can't recommend specific restaurants, but you can check food delivery apps for nearby options.",
+        "Try checking out some local reviews on a food app.",
+        "How about trying a new recipe at home?",
+        "I heard there are great options on food delivery apps.",
+        "Check out some online reviews for the best places to eat."
+    ],
+    "hobby": [
+        "I don't have hobbies like humans do, but I enjoy helping people like you.",
+        "My main activity is assisting users with their questions and tasks.",
+        "Helping you is what I do best!",
+        "I love providing assistance and answering questions.",
+        "Assisting users like you is my primary function."
+    ],
+    "book_recommendation": [
+        "You might enjoy reading 'To Kill a Mockingbird' by Harper Lee.",
+        "How about '1984' by George Orwell? It's a great read.",
+        "'Pride and Prejudice' by Jane Austen is a classic.",
+        "Try 'The Great Gatsby' by F. Scott Fitzgerald.",
+        "I recommend 'Moby Dick' by Herman Melville."
+    ],
+    "programming_help": [
+        "Sure, what programming language are you working with?",
+        "I can help with programming questions. What do you need?",
+        "Let's see what we can do about your code. What's the issue?",
+        "I'm here to help with your programming questions.",
+        "Tell me more about the programming problem you're facing."
+    ],
+    "language_translation": [
+        "I'm not able to translate directly, but there are great online translation services like Google Translate.",
+        "You might want to use a translation app for accurate translations.",
+        "I'm here to assist, but for translations, an online service would be best.",
+        "Try using a translation website or app for the best results.",
+        "For translations, I recommend using an online translation service."
+    ]
+}
